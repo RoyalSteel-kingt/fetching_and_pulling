@@ -1,3 +1,6 @@
 1400 - Computer Programming using C#
 Web Development with HTML, CSS, and JavaScript
 Haven't completed another course, yet.
+Mobile Development
+Computer Programming using C#, part 2.
+2000 - Version Control
